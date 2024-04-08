@@ -36,6 +36,7 @@
   <img style="margin: auto;" src="https://github.com/Ignacio-Gutierrez/Ignacio-Gutierrez/blob/main/Icons/intellij.png" alt=intellij width="60" height="60"/>
   <img style="margin: auto;" src="https://github.com/Ignacio-Gutierrez/Ignacio-Gutierrez/blob/main/Icons/win10.png" alt=w10 width="60" height="60"/>
   <img style="margin: auto;" src="https://github.com/Ignacio-Gutierrez/Ignacio-Gutierrez/blob/main/Icons/linuxmint.png" alt=linuxmint width="60" height="60"/>
+  <img style="margin: auto;" src="https://github.com/Ignacio-Gutierrez/Ignacio-Gutierrez/blob/main/Icons/cinnamon.png" alt=cinnamon width="60" height="60"/>
 </p>
 
 
