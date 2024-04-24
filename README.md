@@ -9,7 +9,6 @@
 
 ###
 
+<img align="right" height="450" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/tenor.gif"  />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ignaciogutierrez1999-ar&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-  
-<img align="right" height="200" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/tenor.gif"  />
